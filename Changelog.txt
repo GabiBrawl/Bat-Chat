@@ -16,6 +16,7 @@ System shows basic info about users. (log-in and log-out statuses)
 
 
 -------------------------------------------> V4.2 Beta <----------------------------------------------
+                         (You will only find all the versions above V4.2B)
 
 Changelog file creation.
 ReadMe file creation.
