@@ -1,6 +1,8 @@
 # Bat-Chat
 This is a simple Chat program between multiple computers. You need Google Drive installed in all the computers, with the same account logged in for this program to work.
 
+I wanted to include in my program automatic updates. If you know how to do that, please email me: gabrielyt219@gmail.com Thanks! (v:
+
 
 --------------------------------------Simple instructions--------------------------------------
 
