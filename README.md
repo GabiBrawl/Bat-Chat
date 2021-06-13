@@ -14,10 +14,10 @@ If you need something, [![Email: gabrielyt219@gmail.com](https://img.shields.io/
 	
 ### Next Goals
 
- -Automatic Update System
- -Graphical interface (may take some years, if I will do it)
- -New Commands
- -Improved commands
- -Remove the GDrive dependency
+ ###Automatic Update System
+ ###Graphical interface (may take some years, if I will do it)
+ ###New Commands
+ ###Improved commands
+ ###Remove the GDrive dependency
 
 ## Thanks for trying! XD
