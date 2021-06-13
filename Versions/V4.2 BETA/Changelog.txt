@@ -1,0 +1,32 @@
+-----------------------------------------> V1, V2, V3 <---------------------------------------------
+                                              BETA
+
+Initial releases.
+Beta versions.
+No more info.
+
+
+---------------------------------------------> V4 <--------------------------------------------------
+
+Introduction of colors.
+Interface improved.
+Commands added. Type /help for commands list.
+Date and Hour are now displayed in Message Displayer.
+System shows basic info about users. (log-in and log-out statuses)
+
+
+-------------------------------------------> V4.2 Beta <----------------------------------------------
+
+Changelog file creation.
+ReadMe file creation.
+Interface improved.
+New BETA commands:
+	-->Admin user (keep as a secret)(not displayed in help): in login section type /ladmin. You can login in any account registered, or non registered.
+	-->Silent message history cleaner: /cls -admin -s deletes the messages history without System telling who cleared it.
+New BETA masked password system.
+New BETA system for settings. New settings:
+	-->Color editor.
+Introduced app icon!
+Introduced setup icon!
+Added secret file for the entire, undelitable message history (right click it, then open with notepad):
+	--> hpchat.lock
