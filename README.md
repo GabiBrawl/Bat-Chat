@@ -1,6 +1,3 @@
-[![(img.shields.io/badge/Bat--Chat-V4.2%20Beta-Blue)]]
-
-
 # Bat-Chat V4.2
 ## BETA
 
