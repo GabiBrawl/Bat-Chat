@@ -22,4 +22,8 @@ If you need something, [![Email: gabrielyt219@gmail.com](https://img.shields.io/
 ###Remove the GDrive dependency
 
 ## Thanks for trying! XD
-DONATE here --> https://www.paypal.com/donate/?hosted_button_id=P93Q58GTYPP8J
+<p>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=P93Q58GTYPP8J">
+      <img src="https://pics.paypal.com/00/s/MGMzNmM0NmMtODE3Mi00YjVkLWFhNjUtZTQ2NWQ4NjU4Mjcw/file.PNG" alt="paypal">
+  </a>
+</p>
